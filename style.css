@@ -1,0 +1,72 @@
+.container {
+    background-image: linear-gradient(208deg,#fbac7ec4, #c550bdc4, #3eecacc4);
+    width: 1024px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+header {
+    margin: 20px;
+    padding-top: 30px;
+}
+
+p {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 17px;
+}
+
+.intro {
+    flex: 4;
+    padding: 50px;
+}
+
+.intro h2 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.intro p {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: darkgreen;
+    font-weight: 500;
+}
+
+.photo {
+    flex: 2;
+    margin: 10px;
+}
+
+.photo h5 {
+    padding-left: 10px;
+}
+
+.row {
+    padding: 20px;
+}
+
+.topic {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.col-3 {
+    padding: 0px 50px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+
+
+footer {
+    justify-content: center;
+    display: flex;
+    padding: 30px;
+}
+
+.email, .fb, .phone, .github {
+    padding: 20px;   
+}
+
+
